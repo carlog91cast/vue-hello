@@ -3,3 +3,13 @@
 
 // Bonus:
 // Aggiungere alla pagina un’immagine, presa anch’essa da un data.
+
+
+
+let vue = new Vue({
+    el: "#myVue",
+    data: {
+        message: "Hello World!",
+        image: ""
+    }
+})
