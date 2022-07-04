@@ -10,6 +10,6 @@ let vue = new Vue({
     el: "#myVue",
     data: {
         message: "Hello World!",
-        image: ""
+        image: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/joker-03-1572350098.jpg?resize=480:*"
     }
 })
